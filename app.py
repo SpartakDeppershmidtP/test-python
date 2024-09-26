@@ -1,1 +1,6 @@
-print(1,2,3)
+print(1, 2, 3)
+
+x = 1
+y = 3
+c = x + y
+print(c)
